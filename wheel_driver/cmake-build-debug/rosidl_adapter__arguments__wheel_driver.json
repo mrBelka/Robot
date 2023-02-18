@@ -1,0 +1,6 @@
+{
+  "package_name": "wheel_driver",
+  "non_idl_tuples": [
+    "/home/misha/ros2_ws/src/wheel_driver:msg/Motor.msg"
+  ]
+}

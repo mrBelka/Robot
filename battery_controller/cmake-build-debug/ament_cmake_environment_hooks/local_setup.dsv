@@ -1,0 +1,2 @@
+source;share/battery_controller/environment/ament_prefix_path.sh
+source;share/battery_controller/environment/path.sh

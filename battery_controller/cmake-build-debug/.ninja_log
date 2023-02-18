@@ -1,0 +1,18 @@
+# ninja log v5
+0	15923	1676715891686227585	CMakeFiles/battery_controller.dir/src/main.cpp.o	852137e080c5d4a9
+15931	20423	1676715896194325276	CMakeFiles/battery_controller.dir/src/io/SerialConnector.cpp.o	c53841ae78aa2da4
+20423	23588	1676715899358393471	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+23589	24486	1676715900258412814	battery_controller	5f80d55dc49f86a
+3	22540	1676716054273397959	CMakeFiles/battery_controller.dir/src/main.cpp.o	852137e080c5d4a9
+22543	27383	1676716059141482813	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+27383	28571	1676716060325503373	battery_controller	5f80d55dc49f86a
+11	3624	1676716116598446274	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+3625	4481	1676716117454460118	battery_controller	5f80d55dc49f86a
+7	2403	1676716229612158168	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+2407	2978	1676716230188166339	battery_controller	5f80d55dc49f86a
+17	4331	1676716257148542951	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+4331	5374	1676716258188557256	battery_controller	5f80d55dc49f86a
+5	4121	1676716328701491288	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+4121	5092	1676716329661503539	battery_controller	5f80d55dc49f86a
+3	3335	1676716473495215544	CMakeFiles/battery_controller.dir/src/protocol/ModbusMaster.cpp.o	a40036a858d61bdb
+3335	4216	1676716474371225288	battery_controller	5f80d55dc49f86a
